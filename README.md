@@ -1,1 +1,1 @@
-# Sorting_6_Numbers 
+# HW_10_Sorting_6_Numbers 
